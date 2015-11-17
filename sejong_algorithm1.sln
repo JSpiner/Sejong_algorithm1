@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sejong_algorithm1", "sejong_algorithm1\sejong_algorithm1.vcxproj", "{ABCB1D9C-203F-4EC0-8815-BF3574F7D6FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABCB1D9C-203F-4EC0-8815-BF3574F7D6FA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ABCB1D9C-203F-4EC0-8815-BF3574F7D6FA}.Debug|Win32.Build.0 = Debug|Win32
+		{ABCB1D9C-203F-4EC0-8815-BF3574F7D6FA}.Release|Win32.ActiveCfg = Release|Win32
+		{ABCB1D9C-203F-4EC0-8815-BF3574F7D6FA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
